@@ -1,0 +1,5 @@
+{"level":"info","message":"New add operation requested: 20 add 10","service":"calculator-microservice"}
+{"level":"info","message":"New divide operation requested: 20 divide 0","service":"calculator-microservice"}
+{"level":"info","message":"New multiply operation requested: 20 multiply NaN","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input. Please provide valid numbers.","service":"calculator-microservice"}
+{"level":"info","message":"New multiply operation requested: 20 multiply 10","service":"calculator-microservice"}
