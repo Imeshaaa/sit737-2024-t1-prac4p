@@ -4,7 +4,7 @@ const winston = require('winston');
 //assign express framework
 const app = express();
 //define port number
-const port = 3000;
+const port = 3050;
 
 //configure winston logger
 const logger = winston.createLogger({
